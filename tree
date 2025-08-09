@@ -1,0 +1,7 @@
+voither-project/
+├── index.html          # O HTML atualizado acima
+├── input.css           # Arquivo de entrada para Tailwind (inclua @tailwind base; @tailwind components; @tailwind utilities; e estilos customizados)
+├── tailwind.config.js  # Configuração do Tailwind
+├── package.json        # Dependências Node.js
+├── styles.css          # CSS gerado (não edite manualmente)
+└── README.md           # Instruções
